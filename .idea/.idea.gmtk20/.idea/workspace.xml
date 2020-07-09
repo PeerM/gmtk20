@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="201a1ecf-9201-43d0-a3ba-6d568f44a41c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gmtk20/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gmtk20/.idea/indexLayout.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Readme.asset" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1eSraKlaQkHFBLBLgaOTPZN9hkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="clojure.repl.connect.LAST_VALUE" value="localhost:3722" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
@@ -13,5 +49,71 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1475" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594326689940">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1475" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326689940" />
+    <state x="-1051" y="438" width="402" height="204" key="Github.ShareDialog" timestamp="1594326602049">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1051" y="438" width="402" height="204" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326602049" />
+    <state x="-1433" y="70" width="772" height="764" key="Github.UntrackedFilesDialog" timestamp="1594326607779">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1433" y="70" width="772" height="764" key="Github.UntrackedFilesDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326607779" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594326449618">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326449618" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1594326449618">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326449618" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1594326449617">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326449617" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1594326449618">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326449618" />
+    <state x="-1428" y="185" key="SettingsEditor" timestamp="1594326513297">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1428" y="185" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326513297" />
+    <state x="-1131" y="230" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594326229439">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1131" y="230" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326229439" />
+    <state x="-1120" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594326854929">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1120" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326854929" />
+    <state x="-1128" y="446" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594326595041">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1128" y="446" key="git4idea.remote.GitConfigureRemotesDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326595041" />
+    <state x="-1266" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594326738988">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1266" y="235" width="672" height="678" key="search.everywhere.popup/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1594326738988" />
   </component>
 </project>
